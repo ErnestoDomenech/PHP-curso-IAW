@@ -3,9 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Primer uso php</title>
+    <title>Primer uso php en la web</title>
 </head>
 <body>
+    <ul>
+        <li><a href="ifelse.php">Condional if else</a></li>
+    </ul>
+
     <!--Uso de etiquetas html -->
     <h1>Primer uso de PHP en la web</h1>
 
