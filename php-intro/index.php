@@ -8,6 +8,7 @@
 <body>
     <ul>
         <li><a href="ifelse.php">Condional if else</a></li>
+        <li><a href="switch.php">Switch</a></li>
     </ul>
 
     <!--Uso de etiquetas html -->
