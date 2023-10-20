@@ -11,6 +11,7 @@
         <li><a href="switch.php">Switch</a></li>
         <li><a href="forloop.php">For loop</a></li>
         <li><a href="whileloop.php">While loop</a></li>
+        <li><a href="arrays.php">Arrays</a></li>
     </ul>
 
     <!--Uso de etiquetas html -->
