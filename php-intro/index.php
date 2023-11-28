@@ -15,6 +15,9 @@
         <li><a href="strings.php">Strings</a></li>
         <li><a href="datetime.php">Date time</a></li>
         <li><a href="functions.php">funciones</a></li>
+        <li><a href="acceso MySql/conexion.php">Validar conexion</a></li>
+        <li><a href="acceso MySql/usuarios.php">Ver usuarios</a></li>
+        <li><a href="acceso MySql/registro.php">Nuevo usuario</a></li>
     </ul>
 
     <!--Uso de etiquetas html -->
