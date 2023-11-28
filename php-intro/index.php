@@ -12,6 +12,9 @@
         <li><a href="forloop.php">For loop</a></li>
         <li><a href="whileloop.php">While loop</a></li>
         <li><a href="arrays.php">Arrays</a></li>
+        <li><a href="strings.php">Strings</a></li>
+        <li><a href="datetime.php">Date time</a></li>
+        <li><a href="functions.php">funciones</a></li>
     </ul>
 
     <!--Uso de etiquetas html -->

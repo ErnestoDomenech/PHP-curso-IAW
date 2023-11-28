@@ -21,12 +21,10 @@
         echo $edades["Pedro"]; // imprime 35
 
         //Array multidimensional
-        $matriz = array(
-            array(1, 2, 3),
-            array(4, 5, 6),
-            array(7, 8, 9)
-          );
-          echo $matriz[0][0]; // imprime 1
+        
+        $matriz = array(array(1, 2, 3), array(4, 5, 6), array(7, 8, 9));
+          
+        echo $matriz[0][0]; // imprime 1
           echo $matriz[1][1]; // imprime 5
           echo $matriz[2][2]; // imprime 9
     ?>
@@ -73,6 +71,7 @@
         }
 
         // Array asociativo
+        
         $colores = array("rojo" => "#FF0000", "verde" => "#00FF00", "azul" => "#0000FF");
         foreach ($colores as $color => $codigo) {
         echo "El color $color tiene el código $codigo <br>";
@@ -145,6 +144,7 @@
         }
 
         //Insertar dos elementos al final
+
         $array = array("a", "b", "c");
         array_push($array, "d", "e");
         
@@ -180,8 +180,11 @@
     <?php
 
         //ordena en orden ascendente
+
         $array = array("d", "b", "a", "e", "c");
         sort($array);
+
+        
         foreach ($array as $letra) {
             echo "$letra <br>";
         }
